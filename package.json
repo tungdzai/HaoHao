@@ -1,0 +1,13 @@
+{
+  "name": "HaoHao",
+  "version": "1.0.0",
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.2.0",
+    "2captcha": "^3.0.5-2",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "https-proxy-agent": "^7.0.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
